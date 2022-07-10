@@ -1,0 +1,495 @@
+{
+  "AgizVeDis": [
+    "Gingivit",
+    "Lokoplaki",
+    "Herpanjina",
+    {
+      "Gingivit": [
+        "Diş etlerinde ağrı",
+        "Kolayca kanayan diş etleri",
+        "Ağızda kötü tat",
+        "Kırmızı ve şiş diş etleri",
+        "Diş etlerinde gri kalıntı",
+        "Ateş"
+      ],
+      "Lokoplaki": [
+        "Dilde beyaz tabakalar",
+        "Yanakta beyaz tabakalar",
+        "Diş etinde şişlik ve sert tabaka",
+        "Yutak bölgesinde şişlik ve sert tabaka",
+        "Dudaklarda pamukçuk",
+        "Dudakta şişlik",
+        "Mavimsi ve beyazımsı lekeler"
+      ],
+      "Herpanjina": [
+        "Baş ağrısı",
+        "Ateş",
+        "İştah kaybı",
+        "Salya artışı",
+        "Ağızda acı"
+      ]
+    },
+    {
+      "belirti": [
+        "Diş etlerinde ağrı",
+        "Kolayca kanayan diş etleri",
+        "Ağızda kötü tat",
+        "Kırmızı ve şiş diş etleri",
+        "Diş etlerinde gri kalıntı",
+        "Ateş",
+        "Dilde beyaz tabakalar",
+        "Yanakta beyaz tabakalar",
+        "Diş etinde şişlik ve sert tabaka",
+        "Yutak bölgesinde şişlik ve sert tabaka",
+        "Dudaklarda pamukçuk",
+        "Dudakta şişlik",
+        "Mavimsi ve beyazımsı lekeler",
+        "Baş ağrısı",
+        "İştah kaybı",
+        "Salya artışı",
+        "Ağızda acı"
+      ]
+    }
+  ],
+  "Akciger": [
+    "Astim",
+    "Bronsit",
+    "KOAH",
+    {
+      "Astim": [
+        "Öksürük",
+        "Hırıltılı solunum",
+        "Göğüste tıkanıklık ve sıkışma hissi",
+        "Soluk alıp verirken ıslık sesi",
+        "Nefes darlığı"
+      ],
+      "Bronsit": [
+        "Öksürük ",
+        "Balgam",
+        "Yüksek ateş",
+        "İştahsızlık ve kilo kaybı",
+        "Solunum sıkıntısı, hırıltılı solunum ve nefes darlığı",
+        "Göğüs kafesinde ve karında ağrılar"
+      ],
+      "KOAH": [
+        "Hırıltı ve nefes darlığı",
+        "Göğüste sıkışma",
+        "Beyaz, sarı veya yeşil renkli olabilen balgam",
+        "Siyanoz (ciltte mavi renk)",
+        "Sık solunum yolu enfeksiyonları",
+        "Yorgunluk ve halsizlik"
+      ]
+    },
+    {
+      "belirti": [
+        "Öksürük",
+        "Hırıltılı solunum",
+        "Göğüste tıkanıklık ve sıkışma hissi",
+        "Soluk alıp verirken ıslık sesi",
+        "Nefes darlığı",
+        "Balgam",
+        "Yüksek ateş",
+        "İştahsızlık ve kilo kaybı",
+        "Solunum sıkıntısı, hırıltılı solunum ve nefes darlığı",
+        "Göğüs kafesinde ve karında ağrılar",
+        "Hırıltı ve nefes darlığı",
+        "Göğüste sıkışma",
+        "Beyaz, sarı veya yeşil renkli olabilen balgam",
+        "Siyanoz (ciltte mavi renk)",
+        "Sık solunum yolu enfeksiyonları",
+        "Yorgunluk ve halsizlik"
+      ]
+    }
+  ],
+  "Bobrek": [
+    "BobrekTasi",
+    "IdrarYoluEnfeksiyonu",
+    "BobrekYetmezligi",
+    {
+      "BobrekTasi": [
+        "İdrarda yanma ve acı",
+        "Mide bulantısı",
+        "Kusma",
+        "İdrarda kan",
+        "İdrar rengi ve yapısında değişiklik",
+        "Sırtta kaburgaların alt kısmında ağrı",
+        "Alt karın bölgesine yayılan ağrı"
+      ],
+      "IdrarYoluEnfeksiyonu": [
+        "Sık idrara çıkma",
+        "İdrarda yanma ve acı",
+        "Ateş",
+        "Yorgunluk",
+        "Kötü kokulu idrar"
+      ],
+      "BobrekYetmezligi": [
+        "Mide bulantısı",
+        "İştahsızlık",
+        "Kusma",
+        "Sık idrara çıkma",
+        "Uyku problemleri"
+      ]
+    },
+    {
+      "belirti": [
+        "İdrarda yanma ve acı",
+        "Mide bulantısı",
+        "Kusma",
+        "İdrarda kan",
+        "İdrar rengi ve yapısında değişiklik",
+        "Sırtta kaburgaların alt kısmında ağrı",
+        "Alt karın bölgesine yayılan ağrı",
+        "Sık idrara çıkma",
+        "Ateş",
+        "Yorgunluk",
+        "Kötü kokulu idrar",
+        "İştahsızlık",
+        "Uyku problemleri"
+      ]
+    }
+  ],
+  "Bogaz": [
+    "Farenjit",
+    "GirtlakKanseri",
+    "Guatr",
+    {
+      "Farenjit": [
+        "Boğazda yanma ve kaşıntı",
+        "Ateş ve halsizlik",
+        "Öksürük",
+        "Ses kısıklığı"
+      ],
+      "GirtlakKanseri": [
+        "Ses kısıklığı",
+        "Boyunda şişlik",
+        "Boğazda takılma hissi",
+        "Geçmeyen kuru zaman zaman kanlı öksürük",
+        "Nefes darlığı",
+        "Kötü kokan nefes",
+        "Kulak ağrısı"
+      ],
+      "Guatr": [
+        "Boyunda şişlik",
+        "Boğazda baskı hissi.",
+        "Yutma güçlüğü",
+        "Öksürük",
+        "Ses kısıklığı",
+        "Nefes darlığı",
+        "Baş ağrısı"
+      ]
+    },
+    {
+      "belirti": [
+        "Boğazda yanma ve kaşıntı",
+        "Ateş ve halsizlik",
+        "Öksürük",
+        "Ses kısıklığı",
+        "Boyunda şişlik",
+        "Boğazda takılma hissi",
+        "Geçmeyen kuru zaman zaman kanlı öksürük",
+        "Nefes darlığı",
+        "Kötü kokan nefes",
+        "Kulak ağrısı",
+        "Boğazda baskı hissi.",
+        "Yutma güçlüğü",
+        "Baş ağrısı"
+      ]
+    }
+  ],
+  "Burun": [
+    "Sinuzit",
+    "Polip",
+    "Grip",
+    {
+      "Sinuzit": [
+        "Öksürük",
+        "Uzun vadeli akıntı",
+        "Geniz akıntısı",
+        "Ateş",
+        "Baş ağrısı",
+        "Koku kaybı"
+      ],
+      "Polip": [
+        "Şiddetli burun tıkanıklığı",
+        "Seste değişiklik",
+        "Nefes alma güçlüğü",
+        "Tat ve koku almada bozukluk",
+        "Sinüslerde dolgunluk",
+        "Geniz akıntısı"
+      ],
+      "Grip": [
+        "Öksürük",
+        "Baş ağrısı",
+        "Halsizlik",
+        "Tıkalı burun",
+        "Ateş",
+        "Soğuk terleme ve titreme",
+        "Geniz akıntısı"
+      ]
+    },
+    {
+      "belirti": [
+        "Öksürük",
+        "Uzun vadeli akıntı",
+        "Ateş",
+        "Baş ağrısı",
+        "Koku kaybı",
+        "Halsizlik",
+        "Tıkalı burun",
+        "Soğuk terleme ve titreme",
+        "Şiddetli burun tıkanıklığı",
+        "Seste değişiklik",
+        "Nefes alma güçlüğü",
+        "Tat ve koku almada bozukluk",
+        "Sinüslerde dolgunluk",
+        "Geniz akıntısı"
+      ]
+    }
+  ],
+  "Goz": [
+    "Katarakt",
+    "GozTansiyonu",
+    "Ektropiyum",
+    {
+      "Katarakt": [
+        "Uzağı ve yakını görememe",
+        "Işıktan şikayet ve kamaşma",
+        "Güneşli günlerde görmenin bozulması",
+        "Bulanık görme",
+        "Renklerin zor ve soluk algılanması",
+        "Göz yorgunluğu ve baş ağrısı"
+      ],
+      "GozTansiyonu": [
+        "Görme duyusunun azalması",
+        "Gözde kızarıklık",
+        "Şiddetli göz ağrısı",
+        "Bulanık görme",
+        "Mide bulantısı",
+        "Kusma"
+      ],
+      "Ektropiyum": [
+        "Gözde sulanma",
+        "Gözde batma",
+        "Işığa karşı hassasiyet",
+        "Korneada kuruma",
+        "Bulanık görme"
+      ]
+    },
+    {
+      "belirti": [
+        "Uzağı ve yakını görememe",
+        "Işıktan şikayet ve kamaşma",
+        "Güneşli günlerde görmenin bozulması",
+        "Bulanık görme",
+        "Renklerin zor ve soluk algılanması",
+        "Göz yorgunluğu ve baş ağrısı",
+        "Görme duyusunun azalması",
+        "Gözde kızarıklık",
+        "Şiddetli göz ağrısı",
+        "Mide bulantısı",
+        "Kusma",
+        "Gözde sulanma",
+        "Gözde batma",
+        "Işığa karşı hassasiyet",
+        "Korneada kuruma"
+      ]
+    }
+  ],
+  "Kafa": [
+    "Alzheimer",
+    "Migren",
+    "Parkinson",
+    {
+      "Alzheimer": [
+        "Kafa karışıklığı",
+        "Olayları unutmak",
+        "Nesnelerin ve kişilerin isimlerini hatırlayamamak",
+        "Kişinin yolları karıştırması",
+        "Karar verememek",
+        "Sürekli aynı şeylerden bahsetmek",
+        "Kaygılı hissetmek",
+        "Ruh hâlinde yaşanan dalgalanmalar"
+      ],
+      "Migren": [
+        "Şiddetli baş ağrısı",
+        "Mide bulantısı",
+        "Aşırı duyarlılık ve tepkisellik",
+        "Aşırı ve gereksiz neşelenme",
+        "Durgunluk ve donukluk",
+        "Düşüncelerde yavaşlama",
+        "İştah artışı veya iştahsızlık",
+        "Kokuya karşı aşırı duyarlılık"
+      ],
+      "Parkinson": [
+        "Ellerde, kollarda titreme",
+        "Kol, bacak veya gövdede kas katılığı",
+        "Hareketlerde yavaşlık",
+        "Refleks kaybı",
+        "Koordinasyon bozukluğu"
+      ]
+    },
+    {
+      "belirti": [
+        "Kafa karışıklığı",
+        "Olayları unutmak",
+        "Nesnelerin ve kişilerin isimlerini hatırlayamamak",
+        "Kişinin yolları karıştırması",
+        "Karar verememek",
+        "Sürekli aynı şeylerden bahsetmek",
+        "Kaygılı hissetmek",
+        "Ruh hâlinde yaşanan dalgalanmalar",
+        "Şiddetli baş ağrısı",
+        "Mide bulantısı",
+        "Aşırı duyarlılık ve tepkisellik",
+        "Aşırı ve gereksiz neşelenme",
+        "Durgunluk ve donukluk",
+        "Düşüncelerde yavaşlama",
+        "İştah artışı veya iştahsızlık",
+        "Kokuya karşı aşırı duyarlılık",
+        "Ellerde, kollarda titreme",
+        "Kol, bacak veya gövdede kas katılığı",
+        "Hareketlerde yavaşlık",
+        "Refleks kaybı",
+        "Koordinasyon bozukluğu"
+      ]
+    }
+  ],
+  "Kalp": [
+    "KalpRitimBozuklugu",
+    "KalpYetmezligi",
+    "KalpDamarTikanikligi",
+    {
+      "KalpRitimBozuklugu": [
+        "Çarpıntı",
+        "Kalp atışlarında düzensizlik",
+        "Boşluk hissi",
+        "Nefes darlığı",
+        "Baş dönmesi"
+      ],
+      "KalpYetmezligi": [
+        "Çabuk yorulma",
+        "İştah kaybı",
+        "Nefes darlığı",
+        "Mide bulantısı",
+        "Ani kilo artışı",
+        "Göğüs ağrısı",
+        "Öksürük",
+        "Pembe veya beyaz renkli balgam çıkarma"
+      ],
+      "KalpDamarTikanikligi": [
+        "Göğüs sıkışması",
+        "Nefes darlığı",
+        "Omuz, kol, boyun, çene ya da sırt bölgelerinde baskı veya sıkışma",
+        "Hazımsızlık ağrısı"
+      ]
+    },
+    {
+      "belirti": [
+        "Çarpıntı",
+        "Kalp atışlarında düzensizlik",
+        "Boşluk hissi",
+        "Nefes darlığı",
+        "Baş dönmesi",
+        "Çabuk yorulma",
+        "İştah kaybı",
+        "Nefes darlığı",
+        "Mide bulantısı",
+        "Ani kilo artışı",
+        "Göğüs ağrısı",
+        "Öksürük",
+        "Pembe veya beyaz renkli balgam çıkarma",
+        "Göğüs sıkışması",
+        "Nefes darlığı",
+        "Omuz, kol, boyun, çene ya da sırt bölgelerinde baskı veya sıkışma",
+        "Hazımsızlık ağrısı"
+      ]
+    }
+  ],
+  "Mide": [
+    "Reflu",
+    "Gastrit",
+    "MideUlseri",
+    {
+      "Reflu": [
+        "Mide ağrısı",
+        "Mide ekşimesi",
+        "Göğüs ağrısı",
+        "Yutma güçlüğü",
+        "Boğaz ağrısı veya öksürük",
+        "Mide bulantısı",
+        "Kusma"
+      ],
+      "Gastrit": [
+        "Midede gaz",
+        "Mide şişliği",
+        "Karnın üst-orta bölümünde ağrı,yanma"
+      ],
+      "MideUlseri": ["Midede yanma", "İştahsızlık", "Kusma", "Şişkinlik"]
+    },
+    {
+      "belirti": [
+        "Mide ağrısı",
+        "Mide ekşimesi",
+        "Göğüs ağrısı",
+        "Yutma güçlüğü",
+        "Boğaz ağrısı veya öksürük",
+        "Mide bulantısı",
+        "Kusma",
+        "Midede gaz",
+        "Mide şişliği",
+        "Karnın üst-orta bölümünde ağrı,yanma",
+        "Midede yanma",
+        "İştahsızlık",
+        "Kusma",
+        "Şişkinlik"
+      ]
+    }
+  ],
+  "Ortopedi": [
+    "BoyunFitigi",
+    "Romatizma",
+    "TopukDikeni",
+    {
+      "BoyunFitigi": [
+        "Boyun ağrısı",
+        "Sırt, kol ve omuzlarda ağrı",
+        "El becerilerinde azalma",
+        "Kol ve parmaklarda uyuşmalar ve karıncalanma",
+        "Duyu kaybı",
+        "Elektriklenme",
+        "Kol ve el kaslarında güç kaybı",
+        "Reflekslerde zayıflama"
+      ],
+      "Romatizma": [
+        "Nefes darlığı",
+        "Hareket kısıtlılığı",
+        "Vücudun farlı bölgelerinde görülen sertlik",
+        "Güçsüzlük"
+      ],
+      "TopukDikeni": [
+        "Topuk iltihabı veya topuk şişmesi",
+        "Topuk altında kemik benzeri çıkıntı",
+        "Topukta yürümeyi zorlaştıran bir hassasiyet"
+      ]
+    },
+    {
+      "belirti": [
+        "Boyun ağrısı",
+        "Sırt, kol ve omuzlarda ağrı",
+        "El becerilerinde azalma",
+        "Kol ve parmaklarda uyuşmalar ve karıncalanma",
+        "Duyu kaybı",
+        "Elektriklenme",
+        "Kol ve el kaslarında güç kaybı",
+        "Reflekslerde zayıflama",
+        "Nefes darlığı",
+        "Hareket kısıtlılığı",
+        "Vücudun farlı bölgelerinde görülen sertlik",
+        "Güçsüzlük",
+        "Topuk iltihabı veya topuk şişmesi",
+        "Topuk altında kemik benzeri çıkıntı",
+        "Topukta yürümeyi zorlaştıran bir hassasiyet"
+      ]
+    }
+  ]
+}

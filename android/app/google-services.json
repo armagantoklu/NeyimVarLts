@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158517405648",
+    "project_id": "hastalik-3702f",
+    "storage_bucket": "hastalik-3702f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158517405648:android:04976fff9e794b3df2bbd5",
+        "android_client_info": {
+          "package_name": "com.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158517405648-ajkfjnp1mop3tjqvhegckdchugitaf0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAk6IgUvhL1JAz0m2Oc4mqeunlGfcooq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158517405648-ajkfjnp1mop3tjqvhegckdchugitaf0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

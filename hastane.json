@@ -1,0 +1,238 @@
+{
+"data" : [
+    {
+        "ad":"Özel Isparta Hastanesi",
+        "sehir":"Isparta",
+        "latitude":30.551156568172612,
+        "longitude":37.773025327519676
+    },
+    {
+        "ad":"Isparta Şehir Hastanesi",
+        "sehir":"Isparta",
+        "latitude":30.561220600486376,
+        "longitude":37.77683618193645
+    },
+    {
+        "ad":"Meddem Hastanesi",
+        "sehir":"Isparta",
+        "latitude":30.537061932167543,
+        "longitude":37.80262355186678 
+    },
+    {
+        "ad":"Özel Davraz Yaşam Hastanesi",
+        "sehir":"Isparta",
+        "latitude":30.5518286714661,
+        "longitude":37.76787043387406 
+    },
+    {
+        "ad":"Isparta Şehit Yunus Emre Devlet Hastanesi",
+        "sehir":"Isparta",
+        "latitude":30.572792586655353,
+        "longitude":37.78858358370449
+    },
+    {
+        "ad":"Özel Meddem Hastanesi",
+        "sehir":"Isparta",
+        "latitude":30.54932478171912,
+        "longitude":37.76268124084097 
+    },
+    {
+        "ad":"Süleyman Demirel Üniversitesi Araştırma Ve Uygulama Hastanesi",
+        "sehir":"Isparta",
+        "latitude":30.540625503917433,
+        "longitude":37.84007234627327 
+    },
+    {
+        "ad":"Devlet Hastanesi",
+        "sehir":"Isparta",
+        "latitude":30.548027596865868,
+        "longitude":37.75860214920693 
+    },
+    {
+        "ad":"Özel Park Hayat Hastanesi",
+        "sehir":"Afyonkarahisar",
+        "latitude":30.50909585264218,
+        "longitude":38.776875817992625 
+    },  
+    {
+        "ad":"Afyonkarahisar Devlet Hastanesi",
+        "sehir":"Afyonkarahisar",
+        "latitude":30.514197291531623,
+        "longitude":38.78324406933462 
+    },  
+    {
+        "ad":"Özel Fuar Hastanesi",
+        "sehir":"Afyonkarahisar",
+        "latitude":30.570442053738077,
+        "longitude":38.766469775387314 
+    }, 
+    {
+        "ad":"Fertillife Afyon Hastanesi",
+        "sehir":"Afyonkarahisar",
+        "latitude":30.546361185603434,
+        "longitude":38.76293681530785 
+    }, 
+    {
+        "ad":"Fırat Üniversitesi Hastanesi",
+        "sehir":"Afyonkarahisar",
+        "latitude":30.555818950401193,
+        "longitude":38.74743197172136 
+    }, 
+    {
+        "ad":"Özel Fizema Tıp Merkezi",
+        "sehir":"Afyonkarahisar",
+        "latitude":30.569551860018855,
+        "longitude":38.74743197172136 
+    },
+    {
+        "ad":"Antalya Anadolu Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.71903397895046,
+        "longitude":36.887060174151294 
+    },
+    {
+        "ad":"Akdeniz Üniversitesi Tıp Fakültesi Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.66189799768497,
+        "longitude":36.89851790249675 
+    },
+    {
+        "ad":"Özel Uncalı Meydan Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.62095603717371,
+        "longitude":36.89304383865287 
+    },
+    {
+        "ad":"Medical Park Antalya Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.746715794979526,
+        "longitude":36.85644075499629 
+    },
+    {
+        "ad":"Anadolu Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.708317000021022,
+        "longitude":36.88766633731294 
+    },
+    {
+        "ad":"Memorial Antalya Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.69349758345651 ,
+        "longitude":36.91762835617307 
+    },
+    {
+        "ad":"Özel Antalya Yaşam Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.730707055273573,
+        "longitude":36.86290048700996 
+    },
+    {
+        "ad":"Özel OFM Antalya Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.691112796150545,
+        "longitude":36.91419707267119 
+    },
+    {
+        "ad":"Medstar Antalya Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.68500927400887 ,
+        "longitude":36.894147412392684 
+    },
+    {
+        "ad":"Özel Antalya Tıp Merkezi",
+        "sehir":"Antalya",
+        "latitude":30.72427811834693,
+        "longitude":36.88753712957682 
+    },
+    {
+        "ad":"Memorial Lara Tıp Merkezi",
+        "sehir":"Antalya",
+        "latitude":30.73864053185362,
+        "longitude":36.858594743575885  
+    },
+    {
+        "ad":"Lara Anadolu Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.794237360072522,
+        "longitude":36.858678804947104  
+    },
+    {
+        "ad":"Özel Opera Yaşam Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.698795527546164,
+        "longitude":36.9017696282314 
+    },
+    {
+        "ad":"Antalya Atatürk Devlet Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.69166651252749,
+        "longitude":36.898702487304874  
+    },
+    {
+        "ad":"Özel Rich Hospital Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.729331931807327,
+        "longitude":36.884032651520556
+    },
+    {
+        "ad":"Antalya Eğitim ve Araştırma Hastanesi",
+        "sehir":"Antalya",
+        "latitude":30.678048121747974,
+        "longitude":36.89064770292127
+    },
+    {
+        "ad":"Adana Şehir Hastanesi",
+        "sehir":"Adana",
+        "latitude":35.3480916,
+        "longitude":37.0286379
+    },
+    {
+        "ad":"Konya Şehir Hastanesi",
+        "sehir":"Konya",
+        "latitude":32.5503272,
+        "longitude":37.857974
+    },
+    {
+        "ad":"İzmir Şehir Hastanesi",
+        "sehir":"İzmir",
+        "latitude":27.1785058,
+        "longitude":38.4846847
+    },
+    {
+        "ad":"Aydın Devlet Hastanesi",
+        "sehir":"Aydın",
+        "latitude":27.8364504,
+        "longitude":37.8486258
+    },
+    {
+        "ad":"Denizli Devlet Hastanesi",
+        "sehir":"Denizli",
+        "latitude":29.0784842,
+        "longitude":37.7833537
+    },
+    {
+        "ad":"Diyarbakır Selahaddin Eyyübi Devlet Hastanesi",
+        "sehir":"Diyarbakır",
+        "latitude":40.2400058,
+        "longitude":37.9187369
+    },
+    {
+        "ad":"Erzurum Mareşal Çakmak Devlet Hastanesi",
+        "sehir":"Erzurum",
+        "latitude":41.2628872,
+        "longitude":39.881266
+    },
+    {
+        "ad":"Ordu Devlet Hastanesi",
+        "sehir":"Ordu",
+        "latitude":37.8869704,
+        "longitude":40.9704794
+    },
+    {
+        "ad":"Özel Aksaray Hastanesi",
+        "sehir":"Aksaray",
+        "latitude":33.9784082,
+        "longitude":38.3574471
+    }
+]
+}
